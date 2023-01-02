@@ -14,6 +14,6 @@
  <li>Javascript</li>
  </ul>
  </p>
-<h3>Do You want to know whether your Birthdate is Lucky for you ? Here is the <a href=>website</a></h3>
+<h3>Do You want to know whether your Birthdate is Lucky for you ? Here is the <a href="https://is-your-birthdate-special.netlify.app/">website</a></h3>
 <p>Don't forget to ⭐ if you enjoy it</p>
 <h3>Resource: https://neog.camp/guide/markeleven </h3>
